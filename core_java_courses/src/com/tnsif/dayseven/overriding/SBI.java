@@ -1,9 +1,14 @@
+//Program to demonstrate method overriding - Runtime Polymorphism
 package com.tnsif.dayseven.overriding;
 
-public class SBI {
-
-	public SBI() {
-		// TODO Auto-generated constructor stub
+//subclass
+public class SBI extends RBI {
+	@Override
+	public float getRateOfInterest() {
+		return 7.0f;
 	}
 
+	public SBI getObject() {
+		return this;
+	}
 }
