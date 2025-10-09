@@ -1,6 +1,6 @@
 
 //Program to guess a number in a given range
-package Day2;
+package Day.com.tnsif.daytwo;
 
 public class IfDemo {
 

@@ -1,6 +1,6 @@
 
 //Program to demonstrate  do while loop
-package Day2;
+package Day.com.tnsif.daytwo;
 
 public class DoWhileDemo {
 	public static void main(String[] args) {

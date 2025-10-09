@@ -1,4 +1,4 @@
-package Day2;
+package Day.com.tnsif.daytwo;
 
 public class ContinueDemo {
 

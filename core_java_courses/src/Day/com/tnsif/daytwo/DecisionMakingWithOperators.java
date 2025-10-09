@@ -1,6 +1,6 @@
 
 //Program to demonstrate decision making operators
-package Day2;
+package Day.com.tnsif.daytwo;
 
 public class DecisionMakingWithOperators {
 	public static void main(String[] args) {
